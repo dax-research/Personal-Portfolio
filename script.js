@@ -255,7 +255,7 @@ const observer = new IntersectionObserver((entries) => {
 }, observerOptions);
 
 // Select elements to animate
-const hiddenElements = document.querySelectorAll('.section-title, .about-content p, .timeline-item, .edu-card, .project-card, .skill-category, .award-card, .cert-card, .language-card, .hero-content');
+const hiddenElements = document.querySelectorAll('.section-title, .about-content p, .timeline-item, .edu-card, .project-card, .blog-card, .skill-category, .award-card, .cert-card, .language-card, .hero-content');
 hiddenElements.forEach(el => {
     el.classList.add('hidden');
     observer.observe(el);
