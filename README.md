@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 
 ## 🚀 Live Demo
 
-[Link to Live Demo if available] (e.g., assignment to GitHub Pages)
+https://dax-research.github.io/Personal-Portfolio/
 
 ## 📋 Table of Contents
 
