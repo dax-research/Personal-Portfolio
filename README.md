@@ -40,21 +40,6 @@ I am a BTech Computer Engineering student at CHARUSAT with a strong passion for 
 - **Font Awesome**: For icons.
 - **Google Fonts**: Typography (Inter, Space Mono).
 
-## 💻 Setup & Installation
-
-To run this project locally on your machine:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/daxpa/Personal-Portfolio.git
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd Personal-Portfolio
-    ```
-3.  **Open `index.html`:**
-    - You can simply double-click the `index.html` file to open it in your default web browser.
-    - Alternatively, you can use a live server extension (like Live Server in VS Code) for a better development experience.
 
 ## 📬 Contact
 
@@ -65,4 +50,4 @@ Feel free to reach out to me!
 - **GitHub**: [daxpa](https://github.com/daxpa)
 
 ---
-© 2025 Dax Patel. All Rights Reserved.
+© 2026 Dax Patel. All Rights Reserved.
